@@ -17,6 +17,9 @@ pip install pandas
 pip install openai
 pip install nest_asyncio
 pip install azure-ai-inference
+pip install openpyxl
+pip install matplotlib
+pip install seaborn
 ````
 
 ### Setup environmental variables
